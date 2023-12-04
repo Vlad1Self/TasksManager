@@ -1,0 +1,16 @@
+C:\Users\geopo\!Projects\ConstrLabs\Lab2EF\bin\Debug\Lab2EF.exe.config
+C:\Users\geopo\!Projects\ConstrLabs\Lab2EF\bin\Debug\Lab2EF.exe
+C:\Users\geopo\!Projects\ConstrLabs\Lab2EF\bin\Debug\Lab2EF.pdb
+C:\Users\geopo\!Projects\ConstrLabs\Lab2EF\bin\Debug\EntityFramework.dll
+C:\Users\geopo\!Projects\ConstrLabs\Lab2EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\geopo\!Projects\ConstrLabs\Lab2EF\bin\Debug\EntityFramework.xml
+C:\Users\geopo\!Projects\ConstrLabs\Lab2EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\geopo\!Projects\ConstrLabs\Lab2EF\obj\Debug\Lab2CodeSecondEF.csproj.AssemblyReference.cache
+C:\Users\geopo\!Projects\ConstrLabs\Lab2EF\obj\Debug\Lab2EF.DialogAddTask.resources
+C:\Users\geopo\!Projects\ConstrLabs\Lab2EF\obj\Debug\Lab2EF.MainForm.resources
+C:\Users\geopo\!Projects\ConstrLabs\Lab2EF\obj\Debug\Lab2EF.Properties.Resources.resources
+C:\Users\geopo\!Projects\ConstrLabs\Lab2EF\obj\Debug\Lab2CodeSecondEF.csproj.GenerateResource.cache
+C:\Users\geopo\!Projects\ConstrLabs\Lab2EF\obj\Debug\Lab2CodeSecondEF.csproj.CoreCompileInputs.cache
+C:\Users\geopo\!Projects\ConstrLabs\Lab2EF\obj\Debug\Lab2CodeSecondEF.csproj.CopyComplete
+C:\Users\geopo\!Projects\ConstrLabs\Lab2EF\obj\Debug\Lab2EF.exe
+C:\Users\geopo\!Projects\ConstrLabs\Lab2EF\obj\Debug\Lab2EF.pdb

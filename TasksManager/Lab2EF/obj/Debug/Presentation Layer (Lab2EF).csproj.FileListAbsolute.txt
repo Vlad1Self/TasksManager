@@ -1,0 +1,68 @@
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\Lab2EF.exe.config
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\Lab2EF.exe
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\Lab2EF.pdb
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\Business Logic Layer.dll
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\EntityFramework.dll
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\Data Access Layer.dll
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\Business Logic Layer.pdb
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\Business Logic Layer.dll.config
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\EntityFramework.xml
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\Data Access Layer.pdb
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\Data Access Layer.dll.config
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\obj\Debug\Presentation Layer (Lab2EF).csproj.AssemblyReference.cache
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\obj\Debug\Lab2EF.DialogAddTask.resources
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\obj\Debug\Lab2EF.MainForm.resources
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\obj\Debug\Lab2EF.Properties.Resources.resources
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\obj\Debug\Presentation Layer (Lab2EF).csproj.GenerateResource.cache
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\obj\Debug\Presentation Layer (Lab2EF).csproj.CoreCompileInputs.cache
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\obj\Debug\Presentation Layer (Lab2EF).csproj.CopyComplete
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\obj\Debug\Lab2EF.exe
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\obj\Debug\Lab2EF.pdb
+C:\Users\geopo\source\repos\Construction Labs (3rd)\Lab2EF\bin\Debug\Lab2EF.exe.config
+C:\Users\geopo\source\repos\Construction Labs (3rd)\Lab2EF\bin\Debug\Lab2EF.exe
+C:\Users\geopo\source\repos\Construction Labs (3rd)\Lab2EF\bin\Debug\Lab2EF.pdb
+C:\Users\geopo\source\repos\Construction Labs (3rd)\Lab2EF\bin\Debug\Business Logic Layer.dll
+C:\Users\geopo\source\repos\Construction Labs (3rd)\Lab2EF\bin\Debug\Data Access Layer.dll
+C:\Users\geopo\source\repos\Construction Labs (3rd)\Lab2EF\bin\Debug\EntityFramework.dll
+C:\Users\geopo\source\repos\Construction Labs (3rd)\Lab2EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\geopo\source\repos\Construction Labs (3rd)\Lab2EF\bin\Debug\Business Logic Layer.pdb
+C:\Users\geopo\source\repos\Construction Labs (3rd)\Lab2EF\bin\Debug\Business Logic Layer.dll.config
+C:\Users\geopo\source\repos\Construction Labs (3rd)\Lab2EF\bin\Debug\Data Access Layer.pdb
+C:\Users\geopo\source\repos\Construction Labs (3rd)\Lab2EF\bin\Debug\Data Access Layer.dll.config
+C:\Users\geopo\source\repos\Construction Labs (3rd)\Lab2EF\bin\Debug\EntityFramework.xml
+C:\Users\geopo\source\repos\Construction Labs (3rd)\Lab2EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\geopo\source\repos\Construction Labs (3rd)\Lab2EF\obj\Debug\Presentation Layer (Lab2EF).csproj.AssemblyReference.cache
+C:\Users\geopo\source\repos\Construction Labs (3rd)\Lab2EF\obj\Debug\Lab2EF.DialogAddTask.resources
+C:\Users\geopo\source\repos\Construction Labs (3rd)\Lab2EF\obj\Debug\Lab2EF.MainForm.resources
+C:\Users\geopo\source\repos\Construction Labs (3rd)\Lab2EF\obj\Debug\Lab2EF.Properties.Resources.resources
+C:\Users\geopo\source\repos\Construction Labs (3rd)\Lab2EF\obj\Debug\Presentation Layer (Lab2EF).csproj.GenerateResource.cache
+C:\Users\geopo\source\repos\Construction Labs (3rd)\Lab2EF\obj\Debug\Presentation Layer (Lab2EF).csproj.CoreCompileInputs.cache
+C:\Users\geopo\source\repos\Construction Labs (3rd)\Lab2EF\obj\Debug\Presentation Layer (Lab2EF).csproj.CopyComplete
+C:\Users\geopo\source\repos\Construction Labs (3rd)\Lab2EF\obj\Debug\Lab2EF.exe
+C:\Users\geopo\source\repos\Construction Labs (3rd)\Lab2EF\obj\Debug\Lab2EF.pdb
+C:\Users\geopo\source\repos\Construction Labs (3rd)\Lab2EF\obj\Debug\Lab2EF.DialogEditKind.resources
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\bin\Debug\Lab2EF.exe.config
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\bin\Debug\Lab2EF.exe
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\bin\Debug\Lab2EF.pdb
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\bin\Debug\Business Logic Layer.dll
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\bin\Debug\EntityFramework.dll
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\bin\Debug\Data Access Layer.dll
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\bin\Debug\Business Logic Layer.pdb
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\bin\Debug\Business Logic Layer.dll.config
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\bin\Debug\EntityFramework.xml
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\bin\Debug\Data Access Layer.pdb
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\bin\Debug\Data Access Layer.dll.config
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\obj\Debug\Presentation Layer (Lab2EF).csproj.AssemblyReference.cache
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\obj\Debug\Lab2EF.DialogAddTask.resources
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\obj\Debug\Lab2EF.DialogEditKind.resources
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\obj\Debug\Lab2EF.MainForm.resources
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\obj\Debug\Lab2EF.Properties.Resources.resources
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\obj\Debug\Presentation Layer (Lab2EF).csproj.GenerateResource.cache
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\obj\Debug\Presentation Layer (Lab2EF).csproj.CoreCompileInputs.cache
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\obj\Debug\Presentation Layer (Lab2EF).csproj.CopyComplete
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\obj\Debug\Lab2EF.exe
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\obj\Debug\Lab2EF.pdb

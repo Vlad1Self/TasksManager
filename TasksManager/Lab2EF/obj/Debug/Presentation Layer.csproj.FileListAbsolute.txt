@@ -1,0 +1,285 @@
+C:\Users\geopo\!Projects\Construction Labs (3rd)\Lab2EF\bin\Debug\Lab2EF.exe.config
+C:\Users\geopo\!Projects\Construction Labs (3rd)\Lab2EF\bin\Debug\Lab2EF.exe
+C:\Users\geopo\!Projects\Construction Labs (3rd)\Lab2EF\bin\Debug\Lab2EF.pdb
+C:\Users\geopo\!Projects\Construction Labs (3rd)\Lab2EF\bin\Debug\EntityFramework.dll
+C:\Users\geopo\!Projects\Construction Labs (3rd)\Lab2EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\geopo\!Projects\Construction Labs (3rd)\Lab2EF\bin\Debug\EntityFramework.xml
+C:\Users\geopo\!Projects\Construction Labs (3rd)\Lab2EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\geopo\!Projects\Construction Labs (3rd)\Lab2EF\obj\Debug\Presentation Layer.csproj.AssemblyReference.cache
+C:\Users\geopo\!Projects\Construction Labs (3rd)\Lab2EF\obj\Debug\Lab2EF.DialogAddTask.resources
+C:\Users\geopo\!Projects\Construction Labs (3rd)\Lab2EF\obj\Debug\Lab2EF.MainForm.resources
+C:\Users\geopo\!Projects\Construction Labs (3rd)\Lab2EF\obj\Debug\Lab2EF.Properties.Resources.resources
+C:\Users\geopo\!Projects\Construction Labs (3rd)\Lab2EF\obj\Debug\Presentation Layer.csproj.GenerateResource.cache
+C:\Users\geopo\!Projects\Construction Labs (3rd)\Lab2EF\obj\Debug\Presentation Layer.csproj.CoreCompileInputs.cache
+C:\Users\geopo\!Projects\Construction Labs (3rd)\Lab2EF\obj\Debug\Presentation Layer.csproj.CopyComplete
+C:\Users\geopo\!Projects\Construction Labs (3rd)\Lab2EF\obj\Debug\Lab2EF.exe
+C:\Users\geopo\!Projects\Construction Labs (3rd)\Lab2EF\obj\Debug\Lab2EF.pdb
+C:\Users\geopo\Documents\ИГЭУ\5 семестр\Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\Lab2EF.exe.config
+C:\Users\geopo\Documents\ИГЭУ\5 семестр\Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\Lab2EF.exe
+C:\Users\geopo\Documents\ИГЭУ\5 семестр\Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\Lab2EF.pdb
+C:\Users\geopo\Documents\ИГЭУ\5 семестр\Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\EntityFramework.dll
+C:\Users\geopo\Documents\ИГЭУ\5 семестр\Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\geopo\Documents\ИГЭУ\5 семестр\Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\EntityFramework.xml
+C:\Users\geopo\Documents\ИГЭУ\5 семестр\Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\geopo\Documents\ИГЭУ\5 семестр\Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\obj\Debug\Presentation Layer.csproj.AssemblyReference.cache
+C:\Users\geopo\Documents\ИГЭУ\5 семестр\Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\obj\Debug\Lab2EF.DialogAddTask.resources
+C:\Users\geopo\Documents\ИГЭУ\5 семестр\Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\obj\Debug\Lab2EF.MainForm.resources
+C:\Users\geopo\Documents\ИГЭУ\5 семестр\Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\obj\Debug\Lab2EF.Properties.Resources.resources
+C:\Users\geopo\Documents\ИГЭУ\5 семестр\Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\obj\Debug\Presentation Layer.csproj.GenerateResource.cache
+C:\Users\geopo\Documents\ИГЭУ\5 семестр\Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\obj\Debug\Presentation Layer.csproj.CoreCompileInputs.cache
+C:\Users\geopo\Documents\ИГЭУ\5 семестр\Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\obj\Debug\Presentation Layer.csproj.CopyComplete
+C:\Users\geopo\Documents\ИГЭУ\5 семестр\Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\obj\Debug\Lab2EF.exe
+C:\Users\geopo\Documents\ИГЭУ\5 семестр\Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\obj\Debug\Lab2EF.pdb
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\Lab2EF.exe.config
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\Lab2EF.exe
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\Lab2EF.pdb
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\EntityFramework.dll
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\EntityFramework.xml
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\obj\Debug\Presentation Layer.csproj.AssemblyReference.cache
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\obj\Debug\Lab2EF.DialogAddTask.resources
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\obj\Debug\Lab2EF.MainForm.resources
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\obj\Debug\Lab2EF.Properties.Resources.resources
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\obj\Debug\Presentation Layer.csproj.GenerateResource.cache
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\obj\Debug\Presentation Layer.csproj.CoreCompileInputs.cache
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\obj\Debug\Presentation Layer.csproj.CopyComplete
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\obj\Debug\Lab2EF.exe
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\obj\Debug\Lab2EF.pdb
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\Business Logic Layer.dll
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\Data Access Layer.dll
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\Business Logic Layer.pdb
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\Business Logic Layer.dll.config
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\Data Access Layer.pdb
+C:\Users\geopo\Documents\ИГЭУ\3 курс — 5 семестр\.Фомина — Конструирование ПО\Construction Labs (3rd)\Lab2EF\bin\Debug\Data Access Layer.dll.config
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\bin\Debug\Lab2EF.exe.config
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\bin\Debug\Lab2EF.exe
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\bin\Debug\Lab2EF.pdb
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\bin\Debug\Business Logic Layer.dll
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\bin\Debug\EntityFramework.dll
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\bin\Debug\Ninject.dll
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\bin\Debug\Data Access Layer.dll
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\bin\Debug\Business Logic Layer.pdb
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\bin\Debug\Business Logic Layer.dll.config
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\bin\Debug\EntityFramework.xml
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\bin\Debug\Ninject.xml
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\bin\Debug\Data Access Layer.pdb
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\bin\Debug\Data Access Layer.dll.config
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\obj\Debug\Presentation Layer.csproj.AssemblyReference.cache
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\obj\Debug\Lab2EF.DialogAddTask.resources
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\obj\Debug\Lab2EF.DialogEditKind.resources
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\obj\Debug\Lab2EF.MainForm.resources
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\obj\Debug\Lab2EF.Properties.Resources.resources
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\obj\Debug\Presentation Layer.csproj.GenerateResource.cache
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\obj\Debug\Presentation Layer.csproj.CoreCompileInputs.cache
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\obj\Debug\Presentation Layer.csproj.CopyComplete
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\obj\Debug\Lab2EF.exe
+C:\Users\geopo\source\repos\Construction Labs (4th)\Lab2EF\obj\Debug\Lab2EF.pdb
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\Lab2EF.exe.config
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\Lab2EF.exe
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\Lab2EF.pdb
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\Business Logic Layer.dll
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\EntityFramework.dll
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\Ninject.dll
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\Data Access Layer.dll
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\Business Logic Layer.pdb
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\Business Logic Layer.dll.config
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\EntityFramework.xml
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\Ninject.xml
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\Data Access Layer.pdb
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\Data Access Layer.dll.config
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\obj\Debug\Presentation Layer.csproj.AssemblyReference.cache
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\obj\Debug\Lab2EF.DialogAddTask.resources
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\obj\Debug\Lab2EF.DialogEditKind.resources
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\obj\Debug\Lab2EF.MainForm.resources
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\obj\Debug\Lab2EF.Properties.Resources.resources
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\obj\Debug\Presentation Layer.csproj.GenerateResource.cache
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\obj\Debug\Presentation Layer.csproj.CoreCompileInputs.cache
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\obj\Debug\Presentation Layer.csproj.CopyComplete
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\obj\Debug\Lab2EF.exe
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\obj\Debug\Lab2EF.pdb
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\MongoDB.Driver.dll
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\MongoDB.Bson.dll
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\DnsClient.dll
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\SharpCompress.dll
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\ZstdSharp.dll
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\Snappier.dll
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\System.Memory.dll
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\System.Buffers.dll
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\MongoDB.Driver.xml
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\MongoDB.Bson.xml
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\DnsClient.xml
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\Snappier.xml
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\System.Memory.xml
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\System.Buffers.xml
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\bin\Debug\mongocrypt.dll
+C:\Users\geopo\source\repos\Construction Labs (7th)\Lab2EF\obj\Debug\Presentation Layer.csproj.SuggestedBindingRedirects.cache
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\mongocrypt.dll
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Lab2EF.exe.config
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Lab2EF.exe
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Lab2EF.pdb
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Business Logic Layer.dll
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\EntityFramework.dll
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Ninject.dll
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Data Access Layer.dll
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\MongoDB.Driver.dll
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\MongoDB.Bson.dll
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\DnsClient.dll
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\SharpCompress.dll
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\ZstdSharp.dll
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Snappier.dll
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\System.Memory.dll
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\System.Buffers.dll
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Business Logic Layer.pdb
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Business Logic Layer.dll.config
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\EntityFramework.xml
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Ninject.xml
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Data Access Layer.pdb
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Data Access Layer.dll.config
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\MongoDB.Driver.xml
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\MongoDB.Bson.xml
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\DnsClient.xml
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Snappier.xml
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\System.Memory.xml
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\System.Buffers.xml
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\obj\Debug\Presentation Layer.csproj.AssemblyReference.cache
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\obj\Debug\Presentation Layer.csproj.SuggestedBindingRedirects.cache
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\obj\Debug\Lab2EF.DialogAddTask.resources
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\obj\Debug\Lab2EF.DialogEditKind.resources
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\obj\Debug\Lab2EF.MainForm.resources
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\obj\Debug\Lab2EF.Properties.Resources.resources
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\obj\Debug\Presentation Layer.csproj.GenerateResource.cache
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\obj\Debug\Presentation Layer.csproj.CoreCompileInputs.cache
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\obj\Debug\Presentation Layer.csproj.CopyComplete
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\obj\Debug\Lab2EF.exe
+C:\Users\geopo\OneDrive\Документы\_Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\obj\Debug\Lab2EF.pdb
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\mongocrypt.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Lab2EF.exe.config
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Lab2EF.exe
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Lab2EF.pdb
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Business Logic Layer.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\EntityFramework.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Ninject.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Data Access Layer.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\MongoDB.Driver.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\MongoDB.Driver.Core.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\MongoDB.Bson.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\DnsClient.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\SharpCompress.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\ZstdSharp.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Snappier.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\System.Memory.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\System.Buffers.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\System.Numerics.Vectors.dll
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Business Logic Layer.pdb
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Business Logic Layer.dll.config
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\EntityFramework.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Ninject.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Data Access Layer.pdb
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Data Access Layer.dll.config
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\MongoDB.Driver.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\MongoDB.Driver.Core.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\MongoDB.Bson.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\DnsClient.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\Snappier.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\System.Memory.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\System.Buffers.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\bin\Debug\System.Numerics.Vectors.xml
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\obj\Debug\Presentation Layer.csproj.AssemblyReference.cache
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\obj\Debug\Lab2EF.DialogAddTask.resources
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\obj\Debug\Lab2EF.DialogEditKind.resources
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\obj\Debug\Lab2EF.MainForm.resources
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\obj\Debug\Lab2EF.Properties.Resources.resources
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\obj\Debug\Presentation Layer.csproj.GenerateResource.cache
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\obj\Debug\Presentation Layer.csproj.CoreCompileInputs.cache
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\obj\Debug\Presentation Layer.csproj.CopyComplete
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\obj\Debug\Lab2EF.exe
+D:\Workspaces\VisualStudioWorkspace\Construction Labs (7th)\Lab2EF\obj\Debug\Lab2EF.pdb
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\mongocrypt.dll
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\Lab2EF.exe.config
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\Lab2EF.exe
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\Lab2EF.pdb
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\Business Logic Layer.dll
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\EntityFramework.dll
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\Ninject.dll
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\Data Access Layer.dll
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\MongoDB.Driver.dll
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\MongoDB.Driver.Core.dll
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\MongoDB.Bson.dll
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\MongoDB.Libmongocrypt.dll
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\DnsClient.dll
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\SharpCompress.dll
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\ZstdSharp.dll
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\Snappier.dll
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\System.Memory.dll
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\System.Buffers.dll
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\System.Numerics.Vectors.dll
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\Business Logic Layer.pdb
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\Business Logic Layer.dll.config
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\EntityFramework.xml
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\Ninject.xml
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\Data Access Layer.pdb
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\Data Access Layer.dll.config
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\MongoDB.Driver.xml
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\MongoDB.Driver.Core.xml
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\MongoDB.Bson.xml
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\DnsClient.xml
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\Snappier.xml
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\System.Memory.xml
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\System.Buffers.xml
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\bin\Debug\System.Numerics.Vectors.xml
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\obj\Debug\Presentation Layer.csproj.AssemblyReference.cache
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\obj\Debug\Lab2EF.DialogAddTask.resources
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\obj\Debug\Lab2EF.DialogEditKind.resources
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\obj\Debug\Lab2EF.MainForm.resources
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\obj\Debug\Lab2EF.Properties.Resources.resources
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\obj\Debug\Presentation Layer.csproj.GenerateResource.cache
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\obj\Debug\Presentation Layer.csproj.CoreCompileInputs.cache
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\obj\Debug\Presentation Layer.csproj.CopyComplete
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\obj\Debug\Lab2EF.exe
+D:\Лабы Фомина\Construction Labs (7th)\Lab2EF\obj\Debug\Lab2EF.pdb
